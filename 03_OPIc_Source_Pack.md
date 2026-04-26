@@ -107,3 +107,38 @@
 - My kids can burn off their energy, and I can take a short walk or relax.
 - My favorite memory is a day when the weather was perfect and my kids laughed a lot.
 - It was not a special event, but it made me feel really happy.
+
+---
+
+## EP04. 속초 가족 여행과 장인어른 칠순 기념
+
+### 원천 스토리 요약
+주말에 가족 전체가 속초로 여행을 갔다. 장인어른의 칠순을 기념하기 위한 여행이었고, 좋은 리조트가 있어서 미리 예약해서 다녀왔다.
+
+속초에 도착해서는 가족들과 함께 기념 가족사진을 찍고, 바다 근처를 산책했다. 이후 맛있는 음식을 함께 먹으며 장인어른 칠순 기념 행사를 했다.
+
+가장 기억에 남는 순간은 장인어른이 정말 좋아하셨던 모습과, 아내가 직접 쓴 편지를 읽어드렸던 장면이다. 그 순간이 꽤 감동적이었고, 단순한 여행이라기보다 가족에게 중요한 시간을 함께 보낸 느낌이 강했다.
+
+### 핵심 흐름
+속초 여행 → 가족 전체 참여 → 장인어른 칠순 기념 → 좋은 리조트 예약 → 가족사진 촬영 → 바다 산책 → 맛있는 음식과 기념 행사 → 장인어른이 좋아하심 → 아내의 편지 낭독 → 감동적인 가족 여행으로 기억됨
+
+### 연결 주제
+- 국내 여행
+- 가족 여행
+- 바다 여행
+- 특별한 가족 행사
+- 기억에 남는 여행
+- 주말 활동
+- 리조트 / 숙소
+- 가족과 보내는 시간
+
+### 핵심 표현 후보
+- I went to Sokcho with my whole family on a weekend.
+- It was for my father-in-law’s 70th birthday.
+- We booked a nice resort there.
+- We took a family photo to celebrate the occasion.
+- We also took a walk by the sea.
+- Later, we had a special dinner for his birthday.
+- He looked really happy, so I felt glad too.
+- The most touching moment was when my wife read a letter she had written for him.
+- It was more than just a trip; it felt like a meaningful family event.
